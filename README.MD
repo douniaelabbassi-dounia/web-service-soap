@@ -9,12 +9,12 @@
 3. Consulter et analyser le WSDL avec un Browser HTTP
 <img src="Captures/Capture3.png">
 4. Tester les opérations du web service avec SoapUI
-<img src="Captures/Capture4">
-<img src="Captures/Capture5">
-<img src="Captures/Capture6">
+<img src="Captures/Capture4.png">
+<img src="Captures/Capture5.png">
+<img src="Captures/Capture6.png">
 5. Un Client SOAP Java
-<img src="Captures/Capture7">
+<img src="Captures/Capture7.png">
 6. Un Client SOAP PHP
-<img src="Captures/Capture7">
-7. Déployer le Web Service dans un Projet Spring Boot
+<img src="Captures/Capture8.png">
+
 
