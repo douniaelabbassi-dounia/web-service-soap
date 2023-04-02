@@ -3,9 +3,9 @@
    • Convertir un montant de l’auro en DH
    • Consulter un Compte
    • Consulter une Liste de comptes
-<img src="Cptures/Capture1.PNG">
+<img src="Captures/Capture1.PNG">
 2. Déployer le Web service avec un simple Serveur JaxWS
-<img src="Cptures/Capture2.PNG">
+<img src="Captures/Capture2.PNG">
 3. Consulter et analyser le WSDL avec un Browser HTTP
 <img src="Captures/Capture3.PNG">
 4. Tester les opérations du web service avec SoapUI
